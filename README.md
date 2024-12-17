@@ -1,0 +1,3 @@
+งาน workshop 17,dec 24 
+ทบทวนคำสั่ง range, for-in,while, break continue
+สร้าง list เข้าถึงสมาชิก for-in เพิ่มลบสมาชิก
